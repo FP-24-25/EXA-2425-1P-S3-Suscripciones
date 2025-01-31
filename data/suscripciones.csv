@@ -1,0 +1,51 @@
+nombre,dni,fecha_inicio,fecha_fin,tipo_plan,num_perfiles,precio_mensual,addons
+Carlos Martínez,65329814W,2022-01-02,,Premium,1,25.00,"4K HDR,UltraHD"
+Ana Pérez,91234762R,2022-01-05,2022-05-10,Estandar,2,15.99,"Descargas ilimitadas,Sonido Dolby"
+María Gómez,84736291F,2022-01-08,2022-03-20,Premium,3,25.00,"4K HDR,Cine en casa"
+Jorge Ruiz,23019485T,2022-01-11,2022-02-05,Básico,4,9.99,
+Lucía Fernández,51928743M,2022-01-14,2024-06-01,Estandar,1,15.99,"UltraHD"
+Pedro Sánchez,78031549Y,2022-01-17,2024-04-15,Premium,2,25.00,"Sonido Dolby"
+Laura Rojas,10293847A,2022-01-20,,Básico,3,9.99,"Cine en casa"
+Sofía Martín,33728495V,2022-01-23,,Estandar,4,15.99,"Descargas ilimitadas"
+Miguel López,62917384H,2022-01-26,2024-02-28,Premium,1,25.00,"UltraHD,4K HDR"
+Carmen Delgado,41829573G,2022-01-29,2024-01-25,Básico,2,9.99,
+Carlos Martínez,93746152C,2022-02-01,,Estandar,3,15.99,"4K HDR"
+Ana Pérez,20594831K,2022-02-04,2024-05-05,Premium,4,25.00,"UltraHD,Sonido Dolby"
+María Gómez,82937416L,2022-02-07,2024-01-30,Básico,1,9.99,"Descargas ilimitadas"
+Jorge Ruiz,49013725Z,2022-02-10,2024-02-15,Estandar,2,15.99,
+Lucía Fernández,15379248E,2022-02-13,2024-06-20,Premium,3,25.00,"Cine en casa"
+Pedro Sánchez,70249831H,2022-02-16,2024-04-28,Básico,4,9.99,"UltraHD,Descargas ilimitadas"
+Laura Rojas,36419028R,2022-02-19,2024-07-01,Estandar,1,15.99,"Sonido Dolby"
+Sofía Martín,58623910W,2022-02-22,2024-03-22,Premium,2,25.00,
+Miguel López,94127530D,2022-02-25,,Básico,3,9.99,"4K HDR"
+Carmen Delgado,21039587Y,2022-02-28,2024-01-05,Estandar,4,15.99,"Descargas ilimitadas"
+Carlos Martínez,54782013F,2023-02-01,2024-04-01,Premium,1,25.00,"UltraHD"
+Ana Pérez,63829417X,2023-02-04,2024-05-15,Básico,2,9.99,"Sonido Dolby"
+María Gómez,81937540N,2023-02-07,2024-06-10,Estandar,3,15.99,"4K HDR,Cine en casa"
+Jorge Ruiz,47591832M,2023-02-10,2024-03-30,Premium,4,25.00,
+Lucía Fernández,20394857Q,2023-02-13,2024-01-20,Básico,1,9.99,"Descargas ilimitadas"
+Pedro Sánchez,72918453S,2023-02-16,2024-07-05,Estandar,2,15.99,"Sonido Dolby"
+Laura Rojas,91283465H,2023-02-19,,Premium,3,25.00,"UltraHD"
+Sofía Martín,38572941C,2023-02-22,,Básico,4,9.99,"Cine en casa"
+Miguel López,57413829J,2023-02-25,2024-05-25,Estandar,1,15.99,
+Carmen Delgado,69134752V,2023-02-28,2024-04-10,Premium,2,25.00,"4K HDR,Descargas ilimitadas"
+Carlos Martínez,23019854A,2023-03-03,2024-01-15,Básico,3,9.99,"Sonido Dolby"
+Ana Pérez,81739426T,2023-03-06,2024-03-05,Estandar,4,15.99,"UltraHD"
+María Gómez,10635279W,2023-03-09,2024-02-28,Premium,1,25.00,"Cine en casa"
+Jorge Ruiz,73912084Y,2023-03-12,2024-01-25,Básico,2,9.99,
+Lucía Fernández,29485713G,2023-03-15,2024-06-01,Estandar,3,15.99,"Descargas ilimitadas"
+Pedro Sánchez,83572049R,2023-03-18,2024-05-20,Premium,4,25.00,"Sonido Dolby"
+Laura Rojas,40619352D,2023-03-21,2024-07-15,Básico,1,9.99,"UltraHD,4K HDR"
+Sofía Martín,52381967Z,2023-03-24,,Estandar,2,15.99,
+Miguel López,94720513E,2023-03-27,2024-04-30,Premium,3,25.00,"Cine en casa"
+Carmen Delgado,31598472K,2023-03-30,2024-02-10,Básico,4,9.99,"Descargas ilimitadas,Sonido Dolby"
+Carlos Martínez,87531024M,2024-03-01,2024-03-15,Estandar,1,15.99,"UltraHD"
+Ana Pérez,19028475N,2024-03-04,2024-03-25,Premium,2,25.00,"4K HDR"
+María Gómez,62097541L,2024-03-07,,Básico,3,9.99,"Sonido Dolby"
+Jorge Ruiz,45710298T,2024-03-10,2024-03-22,Estandar,4,15.99,
+Lucía Fernández,83921056Q,2024-03-13,,Premium,1,25.00,"UltraHD,Descargas ilimitadas"
+Pedro Sánchez,10492387H,2024-03-16,2024-04-15,Básico,2,9.99,
+Laura Rojas,63217940F,2024-03-19,2024-05-01,Estandar,3,15.99,"Cine en casa"
+Sofía Martín,99843120A,2024-03-22,,Premium,4,25.00,"Sonido Dolby"
+Miguel López,71629430C,2024-03-25,2024-03-28,Básico,1,9.99,"4K HDR,Descargas ilimitadas"
+Carmen Delgado,58139247J,2024-03-28,2024-04-10,Estandar,2,15.99,"UltraHD"
